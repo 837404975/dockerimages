@@ -1,1 +1,1 @@
-FROM google/cadvisor:v0.39.2
+FROM  gcr.io/cadvisor/cadvisor:v0.39.2
