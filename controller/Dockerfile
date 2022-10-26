@@ -1,1 +1,1 @@
-from gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/controller:v0.40.2
+from gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/controller:v0.30.4
